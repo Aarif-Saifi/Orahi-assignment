@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Orahi-assignment/static/css/main.b68f6055.chunk.css",
+    "main.js": "/Orahi-assignment/static/js/main.8d09219c.chunk.js",
+    "main.js.map": "/Orahi-assignment/static/js/main.8d09219c.chunk.js.map",
+    "runtime-main.js": "/Orahi-assignment/static/js/runtime-main.8b2702a7.js",
+    "runtime-main.js.map": "/Orahi-assignment/static/js/runtime-main.8b2702a7.js.map",
+    "static/js/2.21599e61.chunk.js": "/Orahi-assignment/static/js/2.21599e61.chunk.js",
+    "static/js/2.21599e61.chunk.js.map": "/Orahi-assignment/static/js/2.21599e61.chunk.js.map",
+    "index.html": "/Orahi-assignment/index.html",
+    "static/css/main.b68f6055.chunk.css.map": "/Orahi-assignment/static/css/main.b68f6055.chunk.css.map",
+    "static/js/2.21599e61.chunk.js.LICENSE.txt": "/Orahi-assignment/static/js/2.21599e61.chunk.js.LICENSE.txt",
+    "static/media/couple.3b851c87.jpg": "/Orahi-assignment/static/media/couple.3b851c87.jpg",
+    "static/media/mencoat.34ccdf2d.jpg": "/Orahi-assignment/static/media/mencoat.34ccdf2d.jpg",
+    "static/media/menjeans.bbb49125.jpg": "/Orahi-assignment/static/media/menjeans.bbb49125.jpg",
+    "static/media/mens.95674c63.jpg": "/Orahi-assignment/static/media/mens.95674c63.jpg",
+    "static/media/menshirt.395ce68f.jpg": "/Orahi-assignment/static/media/menshirt.395ce68f.jpg",
+    "static/media/mentshirt.32682efa.jpg": "/Orahi-assignment/static/media/mentshirt.32682efa.jpg",
+    "static/media/women.567cabee.jpg": "/Orahi-assignment/static/media/women.567cabee.jpg",
+    "static/media/womenfashion.6c60a301.jpg": "/Orahi-assignment/static/media/womenfashion.6c60a301.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b2702a7.js",
+    "static/js/2.21599e61.chunk.js",
+    "static/css/main.b68f6055.chunk.css",
+    "static/js/main.8d09219c.chunk.js"
+  ]
+}
